@@ -7,7 +7,7 @@ from django_countries.fields import CountryField
 
 
 CATEGORY_CHOICES = (
-    ('S', 'Shirt'),
+    ('S', 'Event'),
     ('SW', 'Sport wear'),
     ('OW', 'Outwear')
 )
